@@ -7,6 +7,5 @@ module.exports = defineConfig({
     },
   },
   viewportWidth: 1000,
-  viewportHeight: 660,
-  pluginsFile: false
+  viewportHeight: 660
 });
